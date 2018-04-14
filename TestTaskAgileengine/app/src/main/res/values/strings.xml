@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TestTaskAgileengine</string>
+
+    <string name="login">Log In</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="hello">Hello,</string>
+    <string name="welcome">Welcome</string>
+    <string name="goodbye">Good Bye</string>
+    <string name="logout">Log Out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_stackoverflow">Stackoverflow</string>
+    <string name="menu_logout">Log Out</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+
+</resources>
